@@ -2,6 +2,7 @@
 
 <h2>Objetivo</h2>
 <ul>
+  <li>O site original em que estou me baseando esse projeto é o seguinte: <a href="https://www.mariabolo.com.br/" target="_blank">https://www.mariabolo.com.br/</a></li>
   <li>Pequeno projeto (pessoal) para recriar o layout e design do site basedo nas tecnologias WEB atuais: HTML5, CSS3 e JavaScript</li>
 </ul>
 
