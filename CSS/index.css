@@ -1,4 +1,4 @@
-.conteiner_cabecalho {
+.container_cabecalho {
   width: 100%;
   height: 119px;
   background-color: #F3C9D4;
@@ -8,7 +8,7 @@
 .logotipo {
   width: 90px;
   height: 89px;
-  padding: 14px 46px 14px 204px;
+  padding: 14px 50px 14px 204px;
   display: inline-table;
   float: left;
 }
@@ -44,16 +44,18 @@
 }
 
 .container_slideshow {
-  width: 932px;
+  width: 890px;
   height: 315px;
   margin-left: auto;
   margin-right: auto;
+  position: relative;
 }
 
 .container_slideshow .slideshow_imagem {
   width: 100%;
   height: 100%;
-  margin-top: -10px;
+  position: absolute;
+  left: 0;
+  top: 0;
   object-fit: cover;
 }
-
